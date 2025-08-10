@@ -3,8 +3,8 @@
 title: 牢胡blog复活辣
 published: 2025-08-11
 description: 简述牢胡blog复活过程
-image: ./cover.png
-tags: [网站搭建, 技术分享]
+image: ./cover.jpg
+tags: ["网站搭建", "技术分享"]
 category: Front-end
 draft: false
 
